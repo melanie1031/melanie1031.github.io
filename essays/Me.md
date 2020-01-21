@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: Introducing me
+date: 2020-02-20
 labels:
-  - Software Engineering
-  - Learning
+  - MIS
+  - Introduction
 ---
 
 I’m Melanie Yang and initially I could never imagine myself majoring in MIS among all the business majors that we are offered. However, I always knew that technology is becoming more and more prominent in the future and in business, so I thought making myself familiar with this field would become a great asset.  
