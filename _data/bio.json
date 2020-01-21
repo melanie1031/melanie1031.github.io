@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Melanie Yang",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://melanie1031.github.io/images/meeee.jpg",
+    "email": "myang@hawaii.edu",
+    "phone": "",
+    "website": "https://melanie1031.github.io",
+    "summary": "I am currently a sophomore student at the Shidler College of Business majoring in Management Information Systems and Marketing.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "melanie1031",
+        "url": "http://github.com/melanie1031"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "melanie-yang",
+        "url": "http://linkedin.com/in/melanie-yang"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "travelling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "food",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "fashion",
       "keywords": [
       ]
     }
