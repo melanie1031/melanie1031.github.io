@@ -6,7 +6,6 @@ title: Assignment 2
 date: 2020-05-07
 labels:
   - Assignment 2
-  - E5 Reflection
   - MIS
 ---
 
